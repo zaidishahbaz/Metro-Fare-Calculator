@@ -11,7 +11,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <repository_URL>
+    git clone https://github.com/zaidishahbaz/Metro-Fare-Calculator.git
     ```
 
 2. Install dependencies using npm:
