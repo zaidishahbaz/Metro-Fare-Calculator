@@ -45,5 +45,5 @@ npm test
 
 To run tests, use the following command:
 
-```bash
 npm test
+
