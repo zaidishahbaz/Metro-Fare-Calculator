@@ -1,0 +1,21 @@
+/node_modules
+# Ignore the public directory
+/public
+
+# Ignore the dist directory
+/dist
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+

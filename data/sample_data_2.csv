@@ -1,0 +1,4 @@
+fromLine,toLine,dateTime
+Green,Green,2021-03-24T08:00:00
+Green,Red,2021-03-24T09:30:00
+Red,Red,2021-03-25T10:00:00
