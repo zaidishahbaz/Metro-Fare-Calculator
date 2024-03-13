@@ -43,7 +43,3 @@ To run tests, execute the following command:
 ```bash
 npm test
 
-To run tests, use the following command:
-
-npm test
-
